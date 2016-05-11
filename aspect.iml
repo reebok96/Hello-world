@@ -6,11 +6,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="aspectjrt" level="project" />
-    <orderEntry type="library" name="aspectjrt1" level="project" />
-    <orderEntry type="library" name="aspectjrt2" level="project" />
-    <orderEntry type="library" name="aspectjrt3" level="project" />
-  </component>
+
 </module>
 ghhgghhjhjh
